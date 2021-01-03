@@ -1,0 +1,140 @@
+p.artistLabel{
+    width: 30vh;
+    position: absolute;
+    left: 0px;
+    top: 50vh;
+    font-size: 2.5vh;
+    text-align: center;
+    color: white;
+    margin: auto auto;
+    
+}
+
+p.artistLabel.indexLabel{
+    margin-top: 3vh;
+    top: 53vh;
+    font-size: 4vh;
+    
+}
+
+
+.crate{
+    position: relative;
+    height: 60vh;
+    width: 50vh;
+    margin: 0px 2vh;
+    
+}
+
+.box{
+    
+    position: absolute;
+    left: 0px;
+    top: 45vh;
+    height: 5vh;
+    width: 30vh;
+}
+
+.glow{
+    -webkit-filter: drop-shadow(0px 0px 20px rgb(255, 255, 255));
+}
+
+.album0{
+    position: absolute;
+    left: 2.6vh;
+    top: 20vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 20;
+    background: aquamarine;
+}
+
+.album1{
+    position: absolute;
+    left: 4.6vh;
+    top: 18vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 19;
+    background: rgb(69, 17, 224);
+}
+
+.album2{
+    position: absolute;
+    left: 6.6vh;
+    top: 16vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 18;
+    background: rgb(19, 154, 17);
+}
+
+.album3{
+    position: absolute;
+    left: 8.6vh;
+    top: 14vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 17;
+    background: rgb(162, 24, 6);
+}
+
+.album4{
+    position: absolute;
+    left: 10.6vh;
+    top: 12vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 16;
+    background: rgb(57, 186, 206);
+}
+
+.album5{
+    position: absolute;
+    left: 12.6vh;
+    top: 10vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 15;
+    background: rgb(193, 224, 17);
+}
+
+.album6{
+    position: absolute;
+    left: 14.6vh;
+    top: 8vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 14;
+    background: rgb(224, 17, 162);
+}
+
+.album7{
+    position: absolute;
+    left: 16.6vh;
+    top: 6vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 13;
+    background: rgb(16, 152, 27);
+}
+
+.album8{
+    position: absolute;
+    left: 18.6vh;
+    top: 4vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 12;
+    background: rgb(168, 165, 177);
+}
+
+.album9{
+    position: absolute;
+    left: 20.6vh;
+    top: 2vh;
+    height: 25vh;
+    width: 25vh;
+    z-index: 11;
+    background: rgb(41, 5, 150);
+}
