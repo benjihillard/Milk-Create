@@ -8,7 +8,7 @@ Highlite is a minimalist web application that aims to assist those who have trou
 
 Click [here](https://www.youtube.com/watch?v=jm1BrTeVTRs&feature=youtu.be) or on the gif to see a demo.
 
-## [Try the live demo here.](https://highlite1.herokuapp.com/)
+## [Try the live demo here.](https://milkcreate.herokuapp.com/)
 
 ### Backlog
 
