@@ -4,9 +4,9 @@ Milk Create is a re-imagining of Spotify's user experience. The design is based 
 
 
 
-[![](/milkcreate.gif)](https://www.youtube.com/watch?v=jm1BrTeVTRs&feature=youtu.be)
+[![](/milkcreate.gif)](https://www.youtube.com/watch?v=WrL3-yX9bbI)
 
-Click [here](https://www.youtube.com/watch?v=jm1BrTeVTRs&feature=youtu.be) or on the gif to see a demo.
+Click [here](https://www.youtube.com/watch?v=WrL3-yX9bbI) or on the gif to see a demo.
 
 ## [Try the live demo here.](https://milkcreate.herokuapp.com/)
 
