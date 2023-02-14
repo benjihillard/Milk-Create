@@ -8,7 +8,7 @@ Milk Create is a re-imagining of Spotify's user experience. The design is based 
 
 Click [here](https://www.youtube.com/watch?v=WrL3-yX9bbI) or on the gif to see a demo.
 
-## [Try the live demo here.](https://milkcreate.herokuapp.com/)
+## [Try the live demo here.](https://milk-create-ea829.web.app/)
 
 ### Backlog
 
