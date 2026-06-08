@@ -21,4 +21,4 @@ Click [here](https://www.youtube.com/watch?v=WrL3-yX9bbI) or on the gif to see a
 
 - Has trouble with certain search criteria
 - No way to album drag on mobile
--Doesnt display "A" in sorting label
+- Doesnt display "A" in sorting label
